@@ -1,0 +1,7 @@
+node_modules/
+.env
+qr.txt
+.wwebjs_auth/session/Default/Cache/
+.wwebjs_auth/session/Default/Code Cache/
+.wwebjs_auth/session/Default/GPUCache/
+
